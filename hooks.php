@@ -228,3 +228,4 @@
 - Add tests — iteration 16 (2026)
 - Add validation — iteration 18 (2026)
 - Add example — iteration 23 (2026)
+- Document usage — iteration 32 (2026)
