@@ -231,3 +231,4 @@
 - Document usage — iteration 29 (2026)
 - Fix edge case — iteration 31 (2026)
 - Optimize performance — iteration 35 (2026)
+- Add validation — iteration 37 (2026)
