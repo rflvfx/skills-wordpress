@@ -28,3 +28,4 @@ add_filter('script_loader_tag', function ($tag, $handle) {
 - Extend coverage — iteration 42 (2015)
 - Add tests — iteration 43 (2015)
 - Add helper — iteration 46 (2015)
+- Optimize performance — iteration 48 (2015)
