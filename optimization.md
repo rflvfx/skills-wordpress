@@ -16,3 +16,4 @@
 - Update docs — iteration 28 (2015)
 - Fix typo — iteration 32 (2015)
 - Update config — iteration 36 (2015)
+- Refactor module — iteration 39 (2015)
