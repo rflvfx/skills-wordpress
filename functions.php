@@ -15,3 +15,4 @@ add_filter('script_loader_tag', function ($tag, $handle) {
 }, 10, 2);
 - Refactor module — iteration 2 (2015)
 - Add example — iteration 7 (2015)
+- Extend coverage — iteration 8 (2015)
