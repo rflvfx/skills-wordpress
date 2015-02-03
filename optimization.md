@@ -11,3 +11,4 @@
 - Update config — iteration 12 (2015)
 - Add example — iteration 18 (2015)
 - Add tests — iteration 20 (2015)
+- Document usage — iteration 25 (2015)
