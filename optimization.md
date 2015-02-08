@@ -19,3 +19,4 @@
 - Refactor module — iteration 39 (2015)
 - Tweak implementation — iteration 40 (2015)
 - Fix typo — iteration 41 (2015)
+- Extend coverage — iteration 44 (2015)
