@@ -13,3 +13,4 @@
 - Optimize performance — iteration 34 (2015)
 - Add helper — iteration 37 (2015)
 - Add feature — iteration 47 (2015)
+- Document usage — iteration 54 (2015)
