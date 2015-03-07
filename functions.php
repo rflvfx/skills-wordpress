@@ -24,3 +24,4 @@ add_filter('script_loader_tag', function ($tag, $handle) {
 - Update config — iteration 30 (2015)
 - Fix lint warnings — iteration 31 (2015)
 - Document usage — iteration 35 (2015)
+- Improve error handling — iteration 38 (2015)
