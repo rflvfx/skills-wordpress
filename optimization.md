@@ -12,3 +12,4 @@
 - Add example — iteration 18 (2015)
 - Add tests — iteration 20 (2015)
 - Document usage — iteration 25 (2015)
+- Refactor module — iteration 27 (2015)
