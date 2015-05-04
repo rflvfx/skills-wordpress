@@ -21,3 +21,4 @@ add_filter('script_loader_tag', function ($tag, $handle) {
 - Extend coverage — iteration 19 (2015)
 - Improve error handling — iteration 26 (2015)
 - Improve error handling — iteration 29 (2015)
+- Update config — iteration 30 (2015)
