@@ -26,3 +26,4 @@ add_filter('script_loader_tag', function ($tag, $handle) {
 - Document usage — iteration 35 (2015)
 - Improve error handling — iteration 38 (2015)
 - Extend coverage — iteration 42 (2015)
+- Add tests — iteration 43 (2015)
