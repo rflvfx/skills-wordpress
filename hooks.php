@@ -4,3 +4,4 @@
 - Document usage — iteration 10 (2015)
 - Add helper — iteration 13 (2015)
 - Add feature — iteration 14 (2015)
+- Add helper — iteration 17 (2015)
