@@ -13,3 +13,4 @@ add_filter('script_loader_tag', function ($tag, $handle) {
     if (is_admin()) return $tag;
     return str_replace(' src', ' defer src', $tag);
 }, 10, 2);
+- Refactor module — iteration 2 (2015)
