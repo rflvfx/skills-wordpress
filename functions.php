@@ -17,3 +17,4 @@ add_filter('script_loader_tag', function ($tag, $handle) {
 - Add example — iteration 7 (2015)
 - Extend coverage — iteration 8 (2015)
 - Update config — iteration 15 (2015)
+- Improve naming — iteration 16 (2015)
