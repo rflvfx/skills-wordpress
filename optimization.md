@@ -13,3 +13,4 @@
 - Add tests — iteration 20 (2015)
 - Document usage — iteration 25 (2015)
 - Refactor module — iteration 27 (2015)
+- Update docs — iteration 28 (2015)
