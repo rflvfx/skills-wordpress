@@ -9,3 +9,4 @@
 - Document usage — iteration 22 (2015)
 - Optimize performance — iteration 23 (2015)
 - Update docs — iteration 24 (2015)
+- Improve naming — iteration 33 (2015)
