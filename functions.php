@@ -32,3 +32,4 @@ add_filter('script_loader_tag', function ($tag, $handle) {
 - Update dependencies — iteration 49 (2015)
 - Update config — iteration 50 (2015)
 - Document usage — iteration 56 (2015)
+- Add feature — iteration 58 (2015)
