@@ -25,3 +25,4 @@
 - Add tests — iteration 52 (2015)
 - Optimize performance — iteration 53 (2015)
 - Add helper — iteration 55 (2015)
+- Update config — iteration 57 (2015)
