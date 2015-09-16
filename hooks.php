@@ -6,3 +6,4 @@
 - Add feature — iteration 14 (2015)
 - Add helper — iteration 17 (2015)
 - Polish code — iteration 21 (2015)
+- Document usage — iteration 22 (2015)
