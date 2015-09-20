@@ -4,3 +4,4 @@
 - images: WebP + lazy load
 - DB: limpar revisions e transients expirados
 - scripts: defer/async, remover jQuery do frontend quando possivel
+- Document usage — iteration 1 (2015)
