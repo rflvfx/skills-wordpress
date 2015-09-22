@@ -14,3 +14,4 @@ add_filter('script_loader_tag', function ($tag, $handle) {
     return str_replace(' src', ' defer src', $tag);
 }, 10, 2);
 - Refactor module — iteration 2 (2015)
+- Add example — iteration 7 (2015)
