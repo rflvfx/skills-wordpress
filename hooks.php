@@ -1,3 +1,4 @@
 - Tweak implementation — iteration 3 (2015)
 - Update dependencies — iteration 5 (2015)
 - Refactor module — iteration 6 (2015)
+- Document usage — iteration 10 (2015)
