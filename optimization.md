@@ -21,3 +21,4 @@
 - Fix typo — iteration 41 (2015)
 - Extend coverage — iteration 44 (2015)
 - Improve naming — iteration 45 (2015)
+- Extend coverage — iteration 51 (2015)
