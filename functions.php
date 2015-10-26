@@ -30,3 +30,4 @@ add_filter('script_loader_tag', function ($tag, $handle) {
 - Add helper — iteration 46 (2015)
 - Optimize performance — iteration 48 (2015)
 - Update dependencies — iteration 49 (2015)
+- Update config — iteration 50 (2015)
