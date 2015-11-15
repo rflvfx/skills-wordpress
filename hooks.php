@@ -2,3 +2,4 @@
 - Update dependencies — iteration 5 (2015)
 - Refactor module — iteration 6 (2015)
 - Document usage — iteration 10 (2015)
+- Add helper — iteration 13 (2015)
