@@ -19,3 +19,4 @@ add_filter('script_loader_tag', function ($tag, $handle) {
 - Update config — iteration 15 (2015)
 - Improve naming — iteration 16 (2015)
 - Extend coverage — iteration 19 (2015)
+- Improve error handling — iteration 26 (2015)
