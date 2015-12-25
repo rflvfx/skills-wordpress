@@ -5,3 +5,4 @@
 - DB: limpar revisions e transients expirados
 - scripts: defer/async, remover jQuery do frontend quando possivel
 - Document usage — iteration 1 (2015)
+- Fix lint warnings — iteration 4 (2015)
