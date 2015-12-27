@@ -7,3 +7,4 @@
 - Document usage — iteration 1 (2015)
 - Fix lint warnings — iteration 4 (2015)
 - Optimize performance — iteration 9 (2015)
+- Fix lint warnings — iteration 11 (2015)
