@@ -54,3 +54,4 @@ add_filter('script_loader_tag', function ($tag, $handle) {
 - Fix typo — iteration 42 (2016)
 - Update config — iteration 44 (2016)
 - Update docs — iteration 45 (2016)
+- Add feature — iteration 46 (2016)
