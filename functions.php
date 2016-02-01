@@ -34,3 +34,4 @@ add_filter('script_loader_tag', function ($tag, $handle) {
 - Document usage — iteration 56 (2015)
 - Add feature — iteration 58 (2015)
 - Improve naming — iteration 59 (2015)
+- Add tests — iteration 2 (2016)
