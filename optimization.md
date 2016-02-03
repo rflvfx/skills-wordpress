@@ -41,3 +41,4 @@
 - Fix edge case — iteration 32 (2016)
 - Add helper — iteration 39 (2016)
 - Update dependencies — iteration 40 (2016)
+- Document usage — iteration 41 (2016)
