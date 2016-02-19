@@ -52,3 +52,4 @@ add_filter('script_loader_tag', function ($tag, $handle) {
 - Update docs — iteration 35 (2016)
 - Tweak implementation — iteration 36 (2016)
 - Fix typo — iteration 42 (2016)
+- Update config — iteration 44 (2016)
