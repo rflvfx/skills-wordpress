@@ -21,3 +21,4 @@
 - Fix edge case — iteration 12 (2016)
 - Document usage — iteration 31 (2016)
 - Fix lint warnings — iteration 33 (2016)
+- Update config — iteration 37 (2016)
