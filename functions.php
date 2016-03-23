@@ -48,3 +48,4 @@ add_filter('script_loader_tag', function ($tag, $handle) {
 - Polish code — iteration 25 (2016)
 - Update config — iteration 27 (2016)
 - Update docs — iteration 28 (2016)
+- Add validation — iteration 34 (2016)
