@@ -20,3 +20,4 @@
 - Update dependencies — iteration 8 (2016)
 - Fix edge case — iteration 12 (2016)
 - Document usage — iteration 31 (2016)
+- Fix lint warnings — iteration 33 (2016)
