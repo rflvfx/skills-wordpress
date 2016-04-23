@@ -37,3 +37,4 @@
 - Add helper — iteration 23 (2016)
 - Extend coverage — iteration 26 (2016)
 - Document usage — iteration 29 (2016)
+- Update docs — iteration 30 (2016)
