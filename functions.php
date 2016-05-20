@@ -41,3 +41,4 @@ add_filter('script_loader_tag', function ($tag, $handle) {
 - Tweak implementation — iteration 13 (2016)
 - Fix lint warnings — iteration 14 (2016)
 - Add feature — iteration 15 (2016)
+- Refactor module — iteration 18 (2016)
