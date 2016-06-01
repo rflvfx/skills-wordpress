@@ -39,3 +39,4 @@
 - Document usage — iteration 29 (2016)
 - Update docs — iteration 30 (2016)
 - Fix edge case — iteration 32 (2016)
+- Add helper — iteration 39 (2016)
