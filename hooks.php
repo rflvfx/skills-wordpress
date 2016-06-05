@@ -26,3 +26,4 @@
 - Update config — iteration 43 (2016)
 - Update dependencies — iteration 48 (2016)
 - Update docs — iteration 50 (2016)
+- Minor cleanup — iteration 51 (2016)
