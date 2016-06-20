@@ -18,3 +18,4 @@
 - Fix typo — iteration 5 (2016)
 - Fix lint warnings — iteration 6 (2016)
 - Update dependencies — iteration 8 (2016)
+- Fix edge case — iteration 12 (2016)
