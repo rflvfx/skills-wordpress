@@ -25,3 +25,4 @@
 - Tweak implementation — iteration 38 (2016)
 - Update config — iteration 43 (2016)
 - Update dependencies — iteration 48 (2016)
+- Update docs — iteration 50 (2016)
