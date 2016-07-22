@@ -55,3 +55,4 @@ add_filter('script_loader_tag', function ($tag, $handle) {
 - Update config — iteration 44 (2016)
 - Update docs — iteration 45 (2016)
 - Add feature — iteration 46 (2016)
+- Add feature — iteration 47 (2016)
