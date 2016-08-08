@@ -36,3 +36,4 @@
 - Fix lint warnings — iteration 21 (2016)
 - Add helper — iteration 23 (2016)
 - Extend coverage — iteration 26 (2016)
+- Document usage — iteration 29 (2016)
