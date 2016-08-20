@@ -16,3 +16,4 @@
 - Document usage — iteration 54 (2015)
 - Fix edge case — iteration 1 (2016)
 - Fix typo — iteration 5 (2016)
+- Fix lint warnings — iteration 6 (2016)
