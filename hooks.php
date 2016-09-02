@@ -14,3 +14,4 @@
 - Add helper — iteration 37 (2015)
 - Add feature — iteration 47 (2015)
 - Document usage — iteration 54 (2015)
+- Fix edge case — iteration 1 (2016)
