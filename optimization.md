@@ -30,3 +30,4 @@
 - Update docs — iteration 3 (2016)
 - Add tests — iteration 9 (2016)
 - Fix lint warnings — iteration 10 (2016)
+- Optimize performance — iteration 16 (2016)
