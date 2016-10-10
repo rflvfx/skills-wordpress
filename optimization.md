@@ -40,3 +40,4 @@
 - Update docs — iteration 30 (2016)
 - Fix edge case — iteration 32 (2016)
 - Add helper — iteration 39 (2016)
+- Update dependencies — iteration 40 (2016)
