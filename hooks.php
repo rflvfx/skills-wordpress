@@ -22,3 +22,4 @@
 - Document usage — iteration 31 (2016)
 - Fix lint warnings — iteration 33 (2016)
 - Update config — iteration 37 (2016)
+- Tweak implementation — iteration 38 (2016)
