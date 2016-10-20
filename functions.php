@@ -43,3 +43,4 @@ add_filter('script_loader_tag', function ($tag, $handle) {
 - Add feature — iteration 15 (2016)
 - Refactor module — iteration 18 (2016)
 - Update config — iteration 20 (2016)
+- Minor cleanup — iteration 22 (2016)
