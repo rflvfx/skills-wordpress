@@ -43,3 +43,4 @@
 - Update dependencies — iteration 40 (2016)
 - Document usage — iteration 41 (2016)
 - Polish code — iteration 49 (2016)
+- Add validation — iteration 52 (2016)
