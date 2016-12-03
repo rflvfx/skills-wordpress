@@ -46,3 +46,4 @@ add_filter('script_loader_tag', function ($tag, $handle) {
 - Minor cleanup — iteration 22 (2016)
 - Add feature — iteration 24 (2016)
 - Polish code — iteration 25 (2016)
+- Update config — iteration 27 (2016)
