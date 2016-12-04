@@ -44,3 +44,4 @@
 - Document usage — iteration 41 (2016)
 - Polish code — iteration 49 (2016)
 - Add validation — iteration 52 (2016)
+- Extend coverage — iteration 55 (2016)
