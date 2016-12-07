@@ -33,3 +33,4 @@
 - Optimize performance — iteration 16 (2016)
 - Add tests — iteration 17 (2016)
 - Extend coverage — iteration 19 (2016)
+- Fix lint warnings — iteration 21 (2016)
