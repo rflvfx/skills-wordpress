@@ -35,3 +35,4 @@
 - Extend coverage — iteration 19 (2016)
 - Fix lint warnings — iteration 21 (2016)
 - Add helper — iteration 23 (2016)
+- Extend coverage — iteration 26 (2016)
