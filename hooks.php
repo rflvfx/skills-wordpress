@@ -24,3 +24,4 @@
 - Update config — iteration 37 (2016)
 - Tweak implementation — iteration 38 (2016)
 - Update config — iteration 43 (2016)
+- Update dependencies — iteration 48 (2016)
