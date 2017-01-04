@@ -53,3 +53,4 @@
 - Add tests — iteration 10 (2017)
 - Add helper — iteration 13 (2017)
 - Optimize performance — iteration 14 (2017)
+- Tweak implementation — iteration 20 (2017)
