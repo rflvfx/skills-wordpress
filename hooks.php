@@ -35,3 +35,4 @@
 - Fix lint warnings — iteration 9 (2017)
 - Fix edge case — iteration 15 (2017)
 - Tweak implementation — iteration 17 (2017)
+- Tweak implementation — iteration 18 (2017)
