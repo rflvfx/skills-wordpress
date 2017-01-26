@@ -64,3 +64,4 @@
 - Update dependencies — iteration 40 (2017)
 - Fix lint warnings — iteration 42 (2017)
 - Document usage — iteration 44 (2017)
+- Add tests — iteration 45 (2017)
