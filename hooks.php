@@ -41,3 +41,4 @@
 - Update config — iteration 30 (2017)
 - Refactor module — iteration 33 (2017)
 - Add tests — iteration 34 (2017)
+- Add example — iteration 41 (2017)
