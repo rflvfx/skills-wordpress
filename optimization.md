@@ -52,3 +52,4 @@
 - Improve naming — iteration 8 (2017)
 - Add tests — iteration 10 (2017)
 - Add helper — iteration 13 (2017)
+- Optimize performance — iteration 14 (2017)
