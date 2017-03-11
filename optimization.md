@@ -56,3 +56,4 @@
 - Tweak implementation — iteration 20 (2017)
 - Update config — iteration 24 (2017)
 - Document usage — iteration 26 (2017)
+- Fix typo — iteration 29 (2017)
