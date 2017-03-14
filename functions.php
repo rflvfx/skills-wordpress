@@ -73,3 +73,4 @@ add_filter('script_loader_tag', function ($tag, $handle) {
 - Fix typo — iteration 37 (2017)
 - Improve naming — iteration 39 (2017)
 - Update config — iteration 43 (2017)
+- Refactor module — iteration 50 (2017)
