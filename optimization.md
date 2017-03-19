@@ -49,3 +49,4 @@
 - Extend coverage — iteration 57 (2016)
 - Tweak implementation — iteration 3 (2017)
 - Fix typo — iteration 6 (2017)
+- Improve naming — iteration 8 (2017)
