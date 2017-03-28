@@ -66,3 +66,4 @@ add_filter('script_loader_tag', function ($tag, $handle) {
 - Add example — iteration 16 (2017)
 - Improve naming — iteration 21 (2017)
 - Refactor module — iteration 22 (2017)
+- Update dependencies — iteration 23 (2017)
