@@ -71,3 +71,4 @@
 - Polish code — iteration 53 (2017)
 - Improve naming — iteration 55 (2017)
 - Improve error handling — iteration 56 (2017)
+- Extend coverage — iteration 57 (2017)
