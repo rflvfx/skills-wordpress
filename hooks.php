@@ -40,3 +40,4 @@
 - Extend coverage — iteration 28 (2017)
 - Update config — iteration 30 (2017)
 - Refactor module — iteration 33 (2017)
+- Add tests — iteration 34 (2017)
