@@ -73,3 +73,4 @@
 - Improve error handling — iteration 56 (2017)
 - Extend coverage — iteration 57 (2017)
 - Tweak implementation — iteration 58 (2017)
+- Optimize performance — iteration 59 (2017)
