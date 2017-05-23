@@ -32,3 +32,4 @@
 - Tweak implementation — iteration 60 (2016)
 - Extend coverage — iteration 1 (2017)
 - Document usage — iteration 5 (2017)
+- Fix lint warnings — iteration 9 (2017)
