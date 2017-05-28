@@ -70,3 +70,4 @@ add_filter('script_loader_tag', function ($tag, $handle) {
 - Extend coverage — iteration 25 (2017)
 - Improve error handling — iteration 27 (2017)
 - Optimize performance — iteration 32 (2017)
+- Fix typo — iteration 37 (2017)
