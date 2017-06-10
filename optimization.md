@@ -57,3 +57,4 @@
 - Update config — iteration 24 (2017)
 - Document usage — iteration 26 (2017)
 - Fix typo — iteration 29 (2017)
+- Fix edge case — iteration 31 (2017)
