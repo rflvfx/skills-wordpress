@@ -44,3 +44,4 @@
 - Add example — iteration 41 (2017)
 - Add example — iteration 46 (2017)
 - Document usage — iteration 48 (2017)
+- Fix edge case — iteration 52 (2017)
