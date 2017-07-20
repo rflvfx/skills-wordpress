@@ -67,3 +67,4 @@
 - Add tests — iteration 45 (2017)
 - Minor cleanup — iteration 47 (2017)
 - Add tests — iteration 49 (2017)
+- Improve error handling — iteration 51 (2017)
