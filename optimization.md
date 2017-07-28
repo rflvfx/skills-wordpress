@@ -69,3 +69,4 @@
 - Add tests — iteration 49 (2017)
 - Improve error handling — iteration 51 (2017)
 - Polish code — iteration 53 (2017)
+- Improve naming — iteration 55 (2017)
