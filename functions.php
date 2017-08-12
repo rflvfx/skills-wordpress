@@ -59,3 +59,4 @@ add_filter('script_loader_tag', function ($tag, $handle) {
 - Minor cleanup — iteration 54 (2016)
 - Fix lint warnings — iteration 59 (2016)
 - Fix lint warnings — iteration 2 (2017)
+- Document usage — iteration 4 (2017)
