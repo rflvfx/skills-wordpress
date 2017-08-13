@@ -47,3 +47,4 @@
 - Extend coverage — iteration 55 (2016)
 - Tweak implementation — iteration 56 (2016)
 - Extend coverage — iteration 57 (2016)
+- Tweak implementation — iteration 3 (2017)
