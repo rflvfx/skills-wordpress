@@ -68,3 +68,4 @@ add_filter('script_loader_tag', function ($tag, $handle) {
 - Refactor module — iteration 22 (2017)
 - Update dependencies — iteration 23 (2017)
 - Extend coverage — iteration 25 (2017)
+- Improve error handling — iteration 27 (2017)
