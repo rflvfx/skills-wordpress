@@ -38,3 +38,4 @@
 - Tweak implementation — iteration 18 (2017)
 - Update docs — iteration 19 (2017)
 - Extend coverage — iteration 28 (2017)
+- Update config — iteration 30 (2017)
