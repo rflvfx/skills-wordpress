@@ -58,3 +58,4 @@
 - Document usage — iteration 26 (2017)
 - Fix typo — iteration 29 (2017)
 - Fix edge case — iteration 31 (2017)
+- Update dependencies — iteration 35 (2017)
