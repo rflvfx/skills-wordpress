@@ -72,3 +72,4 @@ add_filter('script_loader_tag', function ($tag, $handle) {
 - Optimize performance — iteration 32 (2017)
 - Fix typo — iteration 37 (2017)
 - Improve naming — iteration 39 (2017)
+- Update config — iteration 43 (2017)
