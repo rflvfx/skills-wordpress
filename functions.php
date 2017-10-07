@@ -69,3 +69,4 @@ add_filter('script_loader_tag', function ($tag, $handle) {
 - Update dependencies — iteration 23 (2017)
 - Extend coverage — iteration 25 (2017)
 - Improve error handling — iteration 27 (2017)
+- Optimize performance — iteration 32 (2017)
