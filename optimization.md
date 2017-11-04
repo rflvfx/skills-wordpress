@@ -62,3 +62,4 @@
 - Update config — iteration 36 (2017)
 - Polish code — iteration 38 (2017)
 - Update dependencies — iteration 40 (2017)
+- Fix lint warnings — iteration 42 (2017)
