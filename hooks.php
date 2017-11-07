@@ -39,3 +39,4 @@
 - Update docs — iteration 19 (2017)
 - Extend coverage — iteration 28 (2017)
 - Update config — iteration 30 (2017)
+- Refactor module — iteration 33 (2017)
