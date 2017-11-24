@@ -30,3 +30,4 @@
 - Extend coverage — iteration 53 (2016)
 - Minor cleanup — iteration 58 (2016)
 - Tweak implementation — iteration 60 (2016)
+- Extend coverage — iteration 1 (2017)
