@@ -51,3 +51,4 @@
 - Fix typo — iteration 6 (2017)
 - Improve naming — iteration 8 (2017)
 - Add tests — iteration 10 (2017)
+- Add helper — iteration 13 (2017)
