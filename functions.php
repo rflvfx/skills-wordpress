@@ -63,3 +63,4 @@ add_filter('script_loader_tag', function ($tag, $handle) {
 - Update config — iteration 7 (2017)
 - Fix edge case — iteration 11 (2017)
 - Improve naming — iteration 12 (2017)
+- Add example — iteration 16 (2017)
