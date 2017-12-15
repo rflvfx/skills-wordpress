@@ -55,3 +55,4 @@
 - Optimize performance — iteration 14 (2017)
 - Tweak implementation — iteration 20 (2017)
 - Update config — iteration 24 (2017)
+- Document usage — iteration 26 (2017)
