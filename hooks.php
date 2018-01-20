@@ -56,3 +56,4 @@
 - Improve error handling — iteration 28 (2018)
 - Fix lint warnings — iteration 29 (2018)
 - Optimize performance — iteration 30 (2018)
+- Add helper — iteration 32 (2018)
