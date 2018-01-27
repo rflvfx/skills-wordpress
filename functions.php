@@ -93,3 +93,4 @@ add_filter('script_loader_tag', function ($tag, $handle) {
 - Extend coverage — iteration 48 (2018)
 - Add validation — iteration 50 (2018)
 - Add tests — iteration 52 (2018)
+- Fix typo — iteration 53 (2018)
