@@ -81,3 +81,4 @@
 - Improve naming — iteration 13 (2018)
 - Update dependencies — iteration 18 (2018)
 - Add validation — iteration 23 (2018)
+- Improve error handling — iteration 25 (2018)
