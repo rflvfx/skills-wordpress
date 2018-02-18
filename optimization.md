@@ -79,3 +79,4 @@
 - Fix edge case — iteration 4 (2018)
 - Polish code — iteration 9 (2018)
 - Improve naming — iteration 13 (2018)
+- Update dependencies — iteration 18 (2018)
