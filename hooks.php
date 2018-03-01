@@ -46,3 +46,4 @@
 - Document usage — iteration 48 (2017)
 - Fix edge case — iteration 52 (2017)
 - Tweak implementation — iteration 54 (2017)
+- Fix typo — iteration 2 (2018)
