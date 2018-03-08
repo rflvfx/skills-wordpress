@@ -80,3 +80,4 @@ add_filter('script_loader_tag', function ($tag, $handle) {
 - Update docs — iteration 10 (2018)
 - Document usage — iteration 11 (2018)
 - Improve naming — iteration 12 (2018)
+- Fix typo — iteration 15 (2018)
