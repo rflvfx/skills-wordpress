@@ -54,3 +54,4 @@
 - Improve error handling — iteration 22 (2018)
 - Add feature — iteration 24 (2018)
 - Improve error handling — iteration 28 (2018)
+- Fix lint warnings — iteration 29 (2018)
