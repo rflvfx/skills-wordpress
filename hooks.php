@@ -49,3 +49,4 @@
 - Fix typo — iteration 2 (2018)
 - Add helper — iteration 6 (2018)
 - Improve naming — iteration 14 (2018)
+- Update config — iteration 16 (2018)
