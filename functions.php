@@ -87,3 +87,4 @@ add_filter('script_loader_tag', function ($tag, $handle) {
 - Document usage — iteration 31 (2018)
 - Add validation — iteration 33 (2018)
 - Update config — iteration 39 (2018)
+- Add validation — iteration 40 (2018)
