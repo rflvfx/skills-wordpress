@@ -80,3 +80,4 @@
 - Polish code — iteration 9 (2018)
 - Improve naming — iteration 13 (2018)
 - Update dependencies — iteration 18 (2018)
+- Add validation — iteration 23 (2018)
