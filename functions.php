@@ -77,3 +77,4 @@ add_filter('script_loader_tag', function ($tag, $handle) {
 - Add helper — iteration 5 (2018)
 - Polish code — iteration 7 (2018)
 - Add feature — iteration 8 (2018)
+- Update docs — iteration 10 (2018)
