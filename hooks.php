@@ -50,3 +50,4 @@
 - Add helper — iteration 6 (2018)
 - Improve naming — iteration 14 (2018)
 - Update config — iteration 16 (2018)
+- Fix lint warnings — iteration 19 (2018)
