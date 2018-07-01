@@ -78,3 +78,4 @@
 - Refactor module — iteration 3 (2018)
 - Fix edge case — iteration 4 (2018)
 - Polish code — iteration 9 (2018)
+- Improve naming — iteration 13 (2018)
