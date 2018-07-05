@@ -79,3 +79,4 @@ add_filter('script_loader_tag', function ($tag, $handle) {
 - Add feature — iteration 8 (2018)
 - Update docs — iteration 10 (2018)
 - Document usage — iteration 11 (2018)
+- Improve naming — iteration 12 (2018)
