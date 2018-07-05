@@ -62,3 +62,4 @@
 - Update config — iteration 38 (2018)
 - Add validation — iteration 43 (2018)
 - Add tests — iteration 55 (2018)
+- Fix lint warnings — iteration 56 (2018)
