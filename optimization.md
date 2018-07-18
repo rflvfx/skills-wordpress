@@ -83,3 +83,4 @@
 - Add validation — iteration 23 (2018)
 - Improve error handling — iteration 25 (2018)
 - Add helper — iteration 26 (2018)
+- Extend coverage — iteration 27 (2018)
