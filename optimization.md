@@ -74,3 +74,4 @@
 - Extend coverage — iteration 57 (2017)
 - Tweak implementation — iteration 58 (2017)
 - Optimize performance — iteration 59 (2017)
+- Add feature — iteration 1 (2018)
