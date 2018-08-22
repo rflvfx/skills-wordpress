@@ -89,3 +89,4 @@
 - Minor cleanup — iteration 41 (2018)
 - Add tests — iteration 42 (2018)
 - Add tests — iteration 45 (2018)
+- Improve error handling — iteration 46 (2018)
