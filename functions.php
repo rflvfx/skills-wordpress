@@ -83,3 +83,4 @@ add_filter('script_loader_tag', function ($tag, $handle) {
 - Fix typo — iteration 15 (2018)
 - Add validation — iteration 17 (2018)
 - Update config — iteration 20 (2018)
+- Improve error handling — iteration 21 (2018)
