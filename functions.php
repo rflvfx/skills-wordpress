@@ -92,3 +92,4 @@ add_filter('script_loader_tag', function ($tag, $handle) {
 - Minor cleanup — iteration 47 (2018)
 - Extend coverage — iteration 48 (2018)
 - Add validation — iteration 50 (2018)
+- Add tests — iteration 52 (2018)
