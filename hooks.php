@@ -58,3 +58,4 @@
 - Optimize performance — iteration 30 (2018)
 - Add helper — iteration 32 (2018)
 - Polish code — iteration 34 (2018)
+- Fix typo — iteration 35 (2018)
