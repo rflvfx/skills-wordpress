@@ -59,3 +59,4 @@
 - Add helper — iteration 32 (2018)
 - Polish code — iteration 34 (2018)
 - Fix typo — iteration 35 (2018)
+- Update config — iteration 38 (2018)
