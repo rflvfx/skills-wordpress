@@ -64,3 +64,4 @@
 - Add tests — iteration 55 (2018)
 - Fix lint warnings — iteration 56 (2018)
 - Add feature — iteration 59 (2018)
+- Document usage — iteration 60 (2018)
