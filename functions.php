@@ -78,3 +78,4 @@ add_filter('script_loader_tag', function ($tag, $handle) {
 - Polish code — iteration 7 (2018)
 - Add feature — iteration 8 (2018)
 - Update docs — iteration 10 (2018)
+- Document usage — iteration 11 (2018)
