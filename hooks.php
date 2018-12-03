@@ -48,3 +48,4 @@
 - Tweak implementation — iteration 54 (2017)
 - Fix typo — iteration 2 (2018)
 - Add helper — iteration 6 (2018)
+- Improve naming — iteration 14 (2018)
