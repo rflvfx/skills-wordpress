@@ -76,3 +76,4 @@
 - Optimize performance — iteration 59 (2017)
 - Add feature — iteration 1 (2018)
 - Refactor module — iteration 3 (2018)
+- Fix edge case — iteration 4 (2018)
