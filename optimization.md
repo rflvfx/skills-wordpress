@@ -101,3 +101,4 @@
 - Refactor module — iteration 17 (2019)
 - Update config — iteration 19 (2019)
 - Update docs — iteration 20 (2019)
+- Document usage — iteration 26 (2019)
