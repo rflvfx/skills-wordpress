@@ -99,3 +99,4 @@
 - Extend coverage — iteration 15 (2019)
 - Minor cleanup — iteration 16 (2019)
 - Refactor module — iteration 17 (2019)
+- Update config — iteration 19 (2019)
