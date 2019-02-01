@@ -104,3 +104,4 @@ add_filter('script_loader_tag', function ($tag, $handle) {
 - Add feature — iteration 14 (2019)
 - Add feature — iteration 18 (2019)
 - Tweak implementation — iteration 21 (2019)
+- Improve naming — iteration 22 (2019)
