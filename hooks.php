@@ -71,3 +71,4 @@
 - Improve error handling — iteration 11 (2019)
 - Polish code — iteration 12 (2019)
 - Improve error handling — iteration 23 (2019)
+- Refactor module — iteration 24 (2019)
