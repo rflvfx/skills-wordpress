@@ -108,3 +108,4 @@ add_filter('script_loader_tag', function ($tag, $handle) {
 - Optimize performance — iteration 31 (2019)
 - Update dependencies — iteration 33 (2019)
 - Refactor module — iteration 34 (2019)
+- Document usage — iteration 36 (2019)
