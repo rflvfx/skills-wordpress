@@ -115,3 +115,4 @@ add_filter('script_loader_tag', function ($tag, $handle) {
 - Refactor module — iteration 49 (2019)
 - Add helper — iteration 54 (2019)
 - Optimize performance — iteration 55 (2019)
+- Update docs — iteration 56 (2019)
