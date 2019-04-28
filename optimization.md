@@ -94,3 +94,4 @@
 - Add validation — iteration 51 (2018)
 - Improve error handling — iteration 54 (2018)
 - Add feature — iteration 58 (2018)
+- Improve naming — iteration 3 (2019)
