@@ -75,3 +75,4 @@
 - Tweak implementation — iteration 25 (2019)
 - Update dependencies — iteration 35 (2019)
 - Update dependencies — iteration 39 (2019)
+- Update docs — iteration 42 (2019)
