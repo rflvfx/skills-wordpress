@@ -96,3 +96,4 @@
 - Add feature — iteration 58 (2018)
 - Improve naming — iteration 3 (2019)
 - Tweak implementation — iteration 13 (2019)
+- Extend coverage — iteration 15 (2019)
