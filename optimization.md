@@ -109,3 +109,4 @@
 - Add feature — iteration 32 (2019)
 - Tweak implementation — iteration 37 (2019)
 - Minor cleanup — iteration 40 (2019)
+- Polish code — iteration 41 (2019)
