@@ -111,3 +111,4 @@
 - Minor cleanup — iteration 40 (2019)
 - Polish code — iteration 41 (2019)
 - Improve error handling — iteration 45 (2019)
+- Tweak implementation — iteration 47 (2019)
