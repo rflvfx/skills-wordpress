@@ -117,3 +117,4 @@
 - Optimize performance — iteration 52 (2019)
 - Add feature — iteration 53 (2019)
 - Update config — iteration 57 (2019)
+- Add example — iteration 58 (2019)
