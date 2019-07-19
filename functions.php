@@ -98,3 +98,4 @@ add_filter('script_loader_tag', function ($tag, $handle) {
 - Fix edge case — iteration 1 (2019)
 - Refactor module — iteration 2 (2019)
 - Add validation — iteration 5 (2019)
+- Add helper — iteration 6 (2019)
