@@ -111,3 +111,4 @@ add_filter('script_loader_tag', function ($tag, $handle) {
 - Document usage — iteration 36 (2019)
 - Update config — iteration 38 (2019)
 - Add feature — iteration 44 (2019)
+- Improve error handling — iteration 46 (2019)
