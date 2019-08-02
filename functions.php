@@ -106,3 +106,4 @@ add_filter('script_loader_tag', function ($tag, $handle) {
 - Tweak implementation — iteration 21 (2019)
 - Improve naming — iteration 22 (2019)
 - Optimize performance — iteration 31 (2019)
+- Update dependencies — iteration 33 (2019)
