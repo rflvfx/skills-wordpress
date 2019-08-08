@@ -104,3 +104,4 @@
 - Document usage — iteration 26 (2019)
 - Fix typo — iteration 27 (2019)
 - Add example — iteration 28 (2019)
+- Improve error handling — iteration 29 (2019)
