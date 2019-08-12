@@ -77,3 +77,4 @@
 - Update dependencies — iteration 39 (2019)
 - Update docs — iteration 42 (2019)
 - Fix typo — iteration 43 (2019)
+- Document usage — iteration 50 (2019)
