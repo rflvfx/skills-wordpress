@@ -108,3 +108,4 @@
 - Update docs — iteration 30 (2019)
 - Add feature — iteration 32 (2019)
 - Tweak implementation — iteration 37 (2019)
+- Minor cleanup — iteration 40 (2019)
