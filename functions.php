@@ -103,3 +103,4 @@ add_filter('script_loader_tag', function ($tag, $handle) {
 - Fix lint warnings — iteration 8 (2019)
 - Add feature — iteration 14 (2019)
 - Add feature — iteration 18 (2019)
+- Tweak implementation — iteration 21 (2019)
