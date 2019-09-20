@@ -65,3 +65,4 @@
 - Fix lint warnings — iteration 56 (2018)
 - Add feature — iteration 59 (2018)
 - Document usage — iteration 60 (2018)
+- Update dependencies — iteration 4 (2019)
