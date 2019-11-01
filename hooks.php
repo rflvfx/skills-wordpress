@@ -67,3 +67,4 @@
 - Document usage — iteration 60 (2018)
 - Update dependencies — iteration 4 (2019)
 - Tweak implementation — iteration 9 (2019)
+- Refactor module — iteration 10 (2019)
