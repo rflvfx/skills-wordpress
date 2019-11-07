@@ -102,3 +102,4 @@
 - Update config — iteration 19 (2019)
 - Update docs — iteration 20 (2019)
 - Document usage — iteration 26 (2019)
+- Fix typo — iteration 27 (2019)
