@@ -107,3 +107,4 @@
 - Improve error handling — iteration 29 (2019)
 - Update docs — iteration 30 (2019)
 - Add feature — iteration 32 (2019)
+- Tweak implementation — iteration 37 (2019)
