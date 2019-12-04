@@ -99,3 +99,4 @@ add_filter('script_loader_tag', function ($tag, $handle) {
 - Refactor module — iteration 2 (2019)
 - Add validation — iteration 5 (2019)
 - Add helper — iteration 6 (2019)
+- Update docs — iteration 7 (2019)
