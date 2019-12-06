@@ -78,3 +78,4 @@
 - Update docs — iteration 42 (2019)
 - Fix typo — iteration 43 (2019)
 - Document usage — iteration 50 (2019)
+- Improve error handling — iteration 59 (2019)
