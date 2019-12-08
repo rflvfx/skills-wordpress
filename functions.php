@@ -101,3 +101,4 @@ add_filter('script_loader_tag', function ($tag, $handle) {
 - Add helper — iteration 6 (2019)
 - Update docs — iteration 7 (2019)
 - Fix lint warnings — iteration 8 (2019)
+- Add feature — iteration 14 (2019)
