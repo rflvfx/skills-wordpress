@@ -125,3 +125,4 @@ add_filter('script_loader_tag', function ($tag, $handle) {
 - Add helper — iteration 9 (2020)
 - Add example — iteration 10 (2020)
 - Improve naming — iteration 14 (2020)
+- Tweak implementation — iteration 17 (2020)
