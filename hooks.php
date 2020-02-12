@@ -98,3 +98,4 @@
 - Tweak implementation — iteration 52 (2020)
 - Minor cleanup — iteration 58 (2020)
 - Improve naming — iteration 59 (2020)
+- Add tests — iteration 60 (2020)
