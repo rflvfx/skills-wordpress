@@ -94,3 +94,4 @@
 - Add example — iteration 38 (2020)
 - Add validation — iteration 41 (2020)
 - Fix typo — iteration 43 (2020)
+- Update config — iteration 44 (2020)
