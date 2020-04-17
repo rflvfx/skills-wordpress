@@ -82,3 +82,4 @@
 - Refactor module — iteration 60 (2019)
 - Fix edge case — iteration 2 (2020)
 - Add helper — iteration 11 (2020)
+- Update docs — iteration 13 (2020)
