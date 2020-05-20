@@ -120,3 +120,4 @@ add_filter('script_loader_tag', function ($tag, $handle) {
 - Fix lint warnings — iteration 3 (2020)
 - Extend coverage — iteration 4 (2020)
 - Polish code — iteration 5 (2020)
+- Fix edge case — iteration 6 (2020)
