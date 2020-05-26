@@ -122,3 +122,4 @@ add_filter('script_loader_tag', function ($tag, $handle) {
 - Polish code — iteration 5 (2020)
 - Fix edge case — iteration 6 (2020)
 - Refactor module — iteration 8 (2020)
+- Add helper — iteration 9 (2020)
