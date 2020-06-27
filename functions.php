@@ -130,3 +130,4 @@ add_filter('script_loader_tag', function ($tag, $handle) {
 - Fix edge case — iteration 20 (2020)
 - Add example — iteration 23 (2020)
 - Fix edge case — iteration 25 (2020)
+- Add validation — iteration 32 (2020)
