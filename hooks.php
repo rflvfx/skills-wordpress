@@ -86,3 +86,4 @@
 - Minor cleanup — iteration 15 (2020)
 - Polish code — iteration 26 (2020)
 - Update docs — iteration 27 (2020)
+- Fix typo — iteration 29 (2020)
