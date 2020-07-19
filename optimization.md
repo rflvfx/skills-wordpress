@@ -121,3 +121,4 @@
 - Add feature — iteration 7 (2020)
 - Add tests — iteration 12 (2020)
 - Add tests — iteration 16 (2020)
+- Update config — iteration 18 (2020)
