@@ -96,3 +96,4 @@
 - Fix typo — iteration 43 (2020)
 - Update config — iteration 44 (2020)
 - Tweak implementation — iteration 52 (2020)
+- Minor cleanup — iteration 58 (2020)
