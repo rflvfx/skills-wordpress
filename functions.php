@@ -124,3 +124,4 @@ add_filter('script_loader_tag', function ($tag, $handle) {
 - Refactor module — iteration 8 (2020)
 - Add helper — iteration 9 (2020)
 - Add example — iteration 10 (2020)
+- Improve naming — iteration 14 (2020)
