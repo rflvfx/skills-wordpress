@@ -127,3 +127,4 @@
 - Add example — iteration 24 (2020)
 - Fix lint warnings — iteration 28 (2020)
 - Refactor module — iteration 30 (2020)
+- Improve naming — iteration 31 (2020)
