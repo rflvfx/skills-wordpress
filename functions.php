@@ -121,3 +121,4 @@ add_filter('script_loader_tag', function ($tag, $handle) {
 - Extend coverage — iteration 4 (2020)
 - Polish code — iteration 5 (2020)
 - Fix edge case — iteration 6 (2020)
+- Refactor module — iteration 8 (2020)
