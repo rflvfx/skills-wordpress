@@ -90,3 +90,4 @@
 - Fix typo — iteration 34 (2020)
 - Tweak implementation — iteration 35 (2020)
 - Add tests — iteration 36 (2020)
+- Update config — iteration 37 (2020)
