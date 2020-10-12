@@ -118,3 +118,4 @@ add_filter('script_loader_tag', function ($tag, $handle) {
 - Update docs — iteration 56 (2019)
 - Fix lint warnings — iteration 1 (2020)
 - Fix lint warnings — iteration 3 (2020)
+- Extend coverage — iteration 4 (2020)
