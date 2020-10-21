@@ -138,3 +138,4 @@ add_filter('script_loader_tag', function ($tag, $handle) {
 - Add validation — iteration 48 (2020)
 - Optimize performance — iteration 49 (2020)
 - Optimize performance — iteration 53 (2020)
+- Tweak implementation — iteration 54 (2020)
