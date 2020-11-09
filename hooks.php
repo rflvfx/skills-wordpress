@@ -80,3 +80,4 @@
 - Document usage — iteration 50 (2019)
 - Improve error handling — iteration 59 (2019)
 - Refactor module — iteration 60 (2019)
+- Fix edge case — iteration 2 (2020)
