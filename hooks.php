@@ -92,3 +92,4 @@
 - Add tests — iteration 36 (2020)
 - Update config — iteration 37 (2020)
 - Add example — iteration 38 (2020)
+- Add validation — iteration 41 (2020)
