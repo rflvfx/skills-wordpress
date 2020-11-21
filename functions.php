@@ -117,3 +117,4 @@ add_filter('script_loader_tag', function ($tag, $handle) {
 - Optimize performance — iteration 55 (2019)
 - Update docs — iteration 56 (2019)
 - Fix lint warnings — iteration 1 (2020)
+- Fix lint warnings — iteration 3 (2020)
