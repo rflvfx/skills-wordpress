@@ -123,3 +123,4 @@ add_filter('script_loader_tag', function ($tag, $handle) {
 - Fix edge case — iteration 6 (2020)
 - Refactor module — iteration 8 (2020)
 - Add helper — iteration 9 (2020)
+- Add example — iteration 10 (2020)
