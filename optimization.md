@@ -128,3 +128,4 @@
 - Fix lint warnings — iteration 28 (2020)
 - Refactor module — iteration 30 (2020)
 - Improve naming — iteration 31 (2020)
+- Add helper — iteration 40 (2020)
