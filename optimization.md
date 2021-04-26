@@ -140,3 +140,4 @@
 - Add tests — iteration 15 (2021)
 - Polish code — iteration 23 (2021)
 - Add tests — iteration 27 (2021)
+- Fix lint warnings — iteration 30 (2021)
