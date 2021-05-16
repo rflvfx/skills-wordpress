@@ -142,3 +142,4 @@ add_filter('script_loader_tag', function ($tag, $handle) {
 - Improve naming — iteration 55 (2020)
 - Add feature — iteration 56 (2020)
 - Fix edge case — iteration 57 (2020)
+- Add feature — iteration 5 (2021)
