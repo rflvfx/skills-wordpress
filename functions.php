@@ -160,3 +160,4 @@ add_filter('script_loader_tag', function ($tag, $handle) {
 - Polish code — iteration 42 (2021)
 - Add helper — iteration 48 (2021)
 - Tweak implementation — iteration 52 (2021)
+- Add helper — iteration 54 (2021)
