@@ -150,3 +150,4 @@ add_filter('script_loader_tag', function ($tag, $handle) {
 - Fix edge case — iteration 17 (2021)
 - Optimize performance — iteration 18 (2021)
 - Document usage — iteration 19 (2021)
+- Add tests — iteration 20 (2021)
