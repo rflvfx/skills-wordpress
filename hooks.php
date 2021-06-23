@@ -122,3 +122,4 @@
 - Fix typo — iteration 50 (2021)
 - Extend coverage — iteration 56 (2021)
 - Add tests — iteration 57 (2021)
+- Document usage — iteration 60 (2021)
