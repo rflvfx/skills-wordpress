@@ -138,3 +138,4 @@
 - Tweak implementation — iteration 9 (2021)
 - Improve error handling — iteration 13 (2021)
 - Add tests — iteration 15 (2021)
+- Polish code — iteration 23 (2021)
