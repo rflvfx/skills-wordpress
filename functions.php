@@ -149,3 +149,4 @@ add_filter('script_loader_tag', function ($tag, $handle) {
 - Add example — iteration 16 (2021)
 - Fix edge case — iteration 17 (2021)
 - Optimize performance — iteration 18 (2021)
+- Document usage — iteration 19 (2021)
