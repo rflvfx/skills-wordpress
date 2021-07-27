@@ -109,3 +109,4 @@
 - Extend coverage — iteration 22 (2021)
 - Fix typo — iteration 26 (2021)
 - Update dependencies — iteration 29 (2021)
+- Fix lint warnings — iteration 31 (2021)
