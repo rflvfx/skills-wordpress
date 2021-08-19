@@ -155,3 +155,4 @@ add_filter('script_loader_tag', function ($tag, $handle) {
 - Update config — iteration 25 (2021)
 - Polish code — iteration 28 (2021)
 - Fix lint warnings — iteration 35 (2021)
+- Add tests — iteration 36 (2021)
