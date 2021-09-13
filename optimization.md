@@ -133,3 +133,4 @@
 - Update dependencies — iteration 47 (2020)
 - Add tests — iteration 50 (2020)
 - Update dependencies — iteration 51 (2020)
+- Polish code — iteration 4 (2021)
