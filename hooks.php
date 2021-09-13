@@ -103,3 +103,4 @@
 - Update dependencies — iteration 2 (2021)
 - Add helper — iteration 3 (2021)
 - Add tests — iteration 7 (2021)
+- Fix typo — iteration 10 (2021)
