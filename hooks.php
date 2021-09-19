@@ -116,3 +116,4 @@
 - Improve error handling — iteration 39 (2021)
 - Extend coverage — iteration 43 (2021)
 - Add example — iteration 44 (2021)
+- Polish code — iteration 46 (2021)
