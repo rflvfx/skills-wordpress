@@ -108,3 +108,4 @@
 - Tweak implementation — iteration 21 (2021)
 - Extend coverage — iteration 22 (2021)
 - Fix typo — iteration 26 (2021)
+- Update dependencies — iteration 29 (2021)
