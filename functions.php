@@ -152,3 +152,4 @@ add_filter('script_loader_tag', function ($tag, $handle) {
 - Document usage — iteration 19 (2021)
 - Add tests — iteration 20 (2021)
 - Add tests — iteration 24 (2021)
+- Update config — iteration 25 (2021)
