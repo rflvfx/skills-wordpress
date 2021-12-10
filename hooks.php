@@ -119,3 +119,4 @@
 - Polish code — iteration 46 (2021)
 - Update config — iteration 47 (2021)
 - Update config — iteration 49 (2021)
+- Fix typo — iteration 50 (2021)
