@@ -129,3 +129,4 @@
 - Add tests — iteration 16 (2022)
 - Add helper — iteration 19 (2022)
 - Add feature — iteration 25 (2022)
+- Fix lint warnings — iteration 26 (2022)
