@@ -164,3 +164,4 @@ add_filter('script_loader_tag', function ($tag, $handle) {
 - Update dependencies — iteration 58 (2021)
 - Add feature — iteration 6 (2022)
 - Add example — iteration 7 (2022)
+- Fix edge case — iteration 8 (2022)
