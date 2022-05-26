@@ -159,3 +159,4 @@
 - Extend coverage — iteration 15 (2022)
 - Fix typo — iteration 17 (2022)
 - Add validation — iteration 18 (2022)
+- Fix typo — iteration 23 (2022)
