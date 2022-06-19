@@ -163,3 +163,4 @@ add_filter('script_loader_tag', function ($tag, $handle) {
 - Add helper — iteration 54 (2021)
 - Update dependencies — iteration 58 (2021)
 - Add feature — iteration 6 (2022)
+- Add example — iteration 7 (2022)
