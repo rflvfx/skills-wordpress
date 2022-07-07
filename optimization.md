@@ -151,3 +151,4 @@
 - Optimize performance — iteration 59 (2021)
 - Fix edge case — iteration 1 (2022)
 - Update dependencies — iteration 4 (2022)
+- Improve error handling — iteration 9 (2022)
