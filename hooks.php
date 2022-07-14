@@ -123,3 +123,4 @@
 - Extend coverage — iteration 56 (2021)
 - Add tests — iteration 57 (2021)
 - Document usage — iteration 60 (2021)
+- Polish code — iteration 2 (2022)
