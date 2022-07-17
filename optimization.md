@@ -157,3 +157,4 @@
 - Tweak implementation — iteration 13 (2022)
 - Polish code — iteration 14 (2022)
 - Extend coverage — iteration 15 (2022)
+- Fix typo — iteration 17 (2022)
