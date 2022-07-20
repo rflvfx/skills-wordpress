@@ -124,3 +124,4 @@
 - Add tests — iteration 57 (2021)
 - Document usage — iteration 60 (2021)
 - Polish code — iteration 2 (2022)
+- Add tests — iteration 3 (2022)
