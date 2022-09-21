@@ -149,3 +149,4 @@
 - Update docs — iteration 53 (2021)
 - Refactor module — iteration 55 (2021)
 - Optimize performance — iteration 59 (2021)
+- Fix edge case — iteration 1 (2022)
