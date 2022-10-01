@@ -158,3 +158,4 @@
 - Polish code — iteration 14 (2022)
 - Extend coverage — iteration 15 (2022)
 - Fix typo — iteration 17 (2022)
+- Add validation — iteration 18 (2022)
