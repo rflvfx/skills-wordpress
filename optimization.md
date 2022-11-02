@@ -165,3 +165,4 @@
 - Add feature — iteration 33 (2022)
 - Refactor module — iteration 34 (2022)
 - Update docs — iteration 39 (2022)
+- Update docs — iteration 41 (2022)
