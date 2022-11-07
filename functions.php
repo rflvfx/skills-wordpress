@@ -172,3 +172,4 @@ add_filter('script_loader_tag', function ($tag, $handle) {
 - Fix typo — iteration 24 (2022)
 - Fix typo — iteration 30 (2022)
 - Add example — iteration 40 (2022)
+- Add validation — iteration 44 (2022)
