@@ -151,3 +151,4 @@
 - Update docs — iteration 8 (2023)
 - Update config — iteration 9 (2023)
 - Update dependencies — iteration 10 (2023)
+- Polish code — iteration 11 (2023)
