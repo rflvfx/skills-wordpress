@@ -147,3 +147,4 @@
 - Update docs — iteration 1 (2023)
 - Extend coverage — iteration 3 (2023)
 - Update dependencies — iteration 4 (2023)
+- Refactor module — iteration 5 (2023)
