@@ -181,3 +181,4 @@
 - Add feature — iteration 36 (2023)
 - Optimize performance — iteration 44 (2023)
 - Optimize performance — iteration 45 (2023)
+- Improve error handling — iteration 51 (2023)
