@@ -179,3 +179,4 @@ add_filter('script_loader_tag', function ($tag, $handle) {
 - Add tests — iteration 55 (2022)
 - Improve error handling — iteration 59 (2022)
 - Improve naming — iteration 6 (2023)
+- Extend coverage — iteration 7 (2023)
