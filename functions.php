@@ -190,3 +190,4 @@ add_filter('script_loader_tag', function ($tag, $handle) {
 - Polish code — iteration 35 (2023)
 - Add feature — iteration 37 (2023)
 - Fix edge case — iteration 40 (2023)
+- Update docs — iteration 41 (2023)
