@@ -145,3 +145,4 @@
 - Minor cleanup — iteration 58 (2022)
 - Add helper — iteration 60 (2022)
 - Update docs — iteration 1 (2023)
+- Extend coverage — iteration 3 (2023)
