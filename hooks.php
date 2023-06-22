@@ -153,3 +153,4 @@
 - Update dependencies — iteration 10 (2023)
 - Polish code — iteration 11 (2023)
 - Fix typo — iteration 12 (2023)
+- Improve error handling — iteration 14 (2023)
