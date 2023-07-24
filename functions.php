@@ -195,3 +195,4 @@ add_filter('script_loader_tag', function ($tag, $handle) {
 - Update config — iteration 46 (2023)
 - Update docs — iteration 48 (2023)
 - Add example — iteration 49 (2023)
+- Update docs — iteration 52 (2023)
