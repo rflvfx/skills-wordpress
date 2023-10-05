@@ -188,3 +188,4 @@ add_filter('script_loader_tag', function ($tag, $handle) {
 - Update docs — iteration 32 (2023)
 - Fix typo — iteration 33 (2023)
 - Polish code — iteration 35 (2023)
+- Add feature — iteration 37 (2023)
