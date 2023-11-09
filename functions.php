@@ -198,3 +198,4 @@ add_filter('script_loader_tag', function ($tag, $handle) {
 - Update docs — iteration 52 (2023)
 - Update config — iteration 54 (2023)
 - Fix typo — iteration 55 (2023)
+- Add helper — iteration 56 (2023)
