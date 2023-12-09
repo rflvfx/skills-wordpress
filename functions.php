@@ -183,3 +183,4 @@ add_filter('script_loader_tag', function ($tag, $handle) {
 - Polish code — iteration 13 (2023)
 - Minor cleanup — iteration 15 (2023)
 - Polish code — iteration 20 (2023)
+- Improve error handling — iteration 24 (2023)
