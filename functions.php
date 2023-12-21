@@ -194,3 +194,4 @@ add_filter('script_loader_tag', function ($tag, $handle) {
 - Improve naming — iteration 42 (2023)
 - Update config — iteration 46 (2023)
 - Update docs — iteration 48 (2023)
+- Add example — iteration 49 (2023)
