@@ -200,3 +200,4 @@ add_filter('script_loader_tag', function ($tag, $handle) {
 - Fix typo — iteration 55 (2023)
 - Add helper — iteration 56 (2023)
 - Tweak implementation — iteration 1 (2024)
+- Improve error handling — iteration 3 (2024)
