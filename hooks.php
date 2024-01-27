@@ -179,3 +179,4 @@
 - Document usage — iteration 18 (2024)
 - Extend coverage — iteration 21 (2024)
 - Tweak implementation — iteration 24 (2024)
+- Add feature — iteration 26 (2024)
