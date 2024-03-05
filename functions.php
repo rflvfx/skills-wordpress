@@ -201,3 +201,4 @@ add_filter('script_loader_tag', function ($tag, $handle) {
 - Add helper — iteration 56 (2023)
 - Tweak implementation — iteration 1 (2024)
 - Improve error handling — iteration 3 (2024)
+- Add example — iteration 10 (2024)
