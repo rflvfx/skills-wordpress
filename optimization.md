@@ -193,3 +193,4 @@
 - Fix typo — iteration 17 (2024)
 - Update dependencies — iteration 20 (2024)
 - Update config — iteration 23 (2024)
+- Document usage — iteration 32 (2024)
