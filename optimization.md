@@ -194,3 +194,4 @@
 - Update dependencies — iteration 20 (2024)
 - Update config — iteration 23 (2024)
 - Document usage — iteration 32 (2024)
+- Polish code — iteration 39 (2024)
