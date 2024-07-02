@@ -207,3 +207,4 @@ add_filter('script_loader_tag', function ($tag, $handle) {
 - Improve error handling — iteration 19 (2024)
 - Fix lint warnings — iteration 22 (2024)
 - Improve naming — iteration 25 (2024)
+- Add example — iteration 28 (2024)
