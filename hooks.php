@@ -181,3 +181,4 @@
 - Tweak implementation — iteration 24 (2024)
 - Add feature — iteration 26 (2024)
 - Improve error handling — iteration 27 (2024)
+- Add helper — iteration 30 (2024)
