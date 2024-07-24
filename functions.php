@@ -212,3 +212,4 @@ add_filter('script_loader_tag', function ($tag, $handle) {
 - Update docs — iteration 34 (2024)
 - Optimize performance — iteration 37 (2024)
 - Add helper — iteration 48 (2024)
+- Minor cleanup — iteration 49 (2024)
