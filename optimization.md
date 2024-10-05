@@ -198,3 +198,4 @@
 - Tweak implementation — iteration 40 (2024)
 - Add example — iteration 44 (2024)
 - Polish code — iteration 45 (2024)
+- Document usage — iteration 47 (2024)
