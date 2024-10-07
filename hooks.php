@@ -195,3 +195,4 @@
 - Add feature — iteration 54 (2024)
 - Update dependencies — iteration 56 (2024)
 - Optimize performance — iteration 57 (2024)
+- Document usage — iteration 58 (2024)
