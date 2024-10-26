@@ -177,3 +177,4 @@
 - Improve error handling — iteration 9 (2024)
 - Add validation — iteration 15 (2024)
 - Document usage — iteration 18 (2024)
+- Extend coverage — iteration 21 (2024)
