@@ -176,3 +176,4 @@
 - Update docs — iteration 8 (2024)
 - Improve error handling — iteration 9 (2024)
 - Add validation — iteration 15 (2024)
+- Document usage — iteration 18 (2024)
