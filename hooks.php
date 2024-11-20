@@ -180,3 +180,4 @@
 - Extend coverage — iteration 21 (2024)
 - Tweak implementation — iteration 24 (2024)
 - Add feature — iteration 26 (2024)
+- Improve error handling — iteration 27 (2024)
