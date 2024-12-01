@@ -199,3 +199,4 @@ add_filter('script_loader_tag', function ($tag, $handle) {
 - Update config — iteration 54 (2023)
 - Fix typo — iteration 55 (2023)
 - Add helper — iteration 56 (2023)
+- Tweak implementation — iteration 1 (2024)
