@@ -201,3 +201,4 @@
 - Document usage — iteration 47 (2024)
 - Document usage — iteration 51 (2024)
 - Update dependencies — iteration 59 (2024)
+- Fix edge case — iteration 60 (2024)
