@@ -174,3 +174,4 @@
 - Optimize performance — iteration 6 (2024)
 - Optimize performance — iteration 7 (2024)
 - Update docs — iteration 8 (2024)
+- Improve error handling — iteration 9 (2024)
