@@ -212,3 +212,4 @@
 - Minor cleanup — iteration 32 (2025)
 - Optimize performance — iteration 41 (2025)
 - Add helper — iteration 43 (2025)
+- Extend coverage — iteration 44 (2025)
