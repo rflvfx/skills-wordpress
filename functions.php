@@ -216,3 +216,4 @@ add_filter('script_loader_tag', function ($tag, $handle) {
 - Add tests — iteration 50 (2024)
 - Update config — iteration 53 (2024)
 - Add validation — iteration 55 (2024)
+- Add helper — iteration 2 (2025)
