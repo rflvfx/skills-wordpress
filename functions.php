@@ -220,3 +220,4 @@ add_filter('script_loader_tag', function ($tag, $handle) {
 - Add tests — iteration 8 (2025)
 - Tweak implementation — iteration 9 (2025)
 - Add example — iteration 11 (2025)
+- Fix typo — iteration 12 (2025)
