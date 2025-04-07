@@ -207,3 +207,4 @@
 - Fix lint warnings — iteration 25 (2025)
 - Update dependencies — iteration 26 (2025)
 - Tweak implementation — iteration 29 (2025)
+- Document usage — iteration 30 (2025)
