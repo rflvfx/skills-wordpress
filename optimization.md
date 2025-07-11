@@ -203,3 +203,4 @@
 - Update dependencies — iteration 59 (2024)
 - Fix edge case — iteration 60 (2024)
 - Document usage — iteration 3 (2025)
+- Improve naming — iteration 4 (2025)
