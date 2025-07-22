@@ -218,3 +218,4 @@
 - Extend coverage — iteration 47 (2025)
 - Fix typo — iteration 50 (2025)
 - Tweak implementation — iteration 51 (2025)
+- Fix edge case — iteration 52 (2025)
