@@ -211,3 +211,4 @@
 - Add feature — iteration 23 (2025)
 - Minor cleanup — iteration 32 (2025)
 - Optimize performance — iteration 41 (2025)
+- Add helper — iteration 43 (2025)
