@@ -216,3 +216,4 @@
 - Add feature — iteration 40 (2025)
 - Update docs — iteration 45 (2025)
 - Extend coverage — iteration 47 (2025)
+- Fix typo — iteration 50 (2025)
