@@ -209,3 +209,4 @@
 - Tweak implementation — iteration 29 (2025)
 - Document usage — iteration 30 (2025)
 - Improve naming — iteration 33 (2025)
+- Fix edge case — iteration 34 (2025)
