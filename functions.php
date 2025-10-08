@@ -224,3 +224,4 @@ add_filter('script_loader_tag', function ($tag, $handle) {
 - Update config — iteration 15 (2025)
 - Fix typo — iteration 16 (2025)
 - Improve naming — iteration 19 (2025)
+- Add tests — iteration 20 (2025)
