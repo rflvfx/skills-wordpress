@@ -227,3 +227,4 @@ add_filter('script_loader_tag', function ($tag, $handle) {
 - Add tests — iteration 20 (2025)
 - Document usage — iteration 27 (2025)
 - Fix typo — iteration 28 (2025)
+- Improve error handling — iteration 31 (2025)
