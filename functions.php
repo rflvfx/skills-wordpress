@@ -218,3 +218,4 @@ add_filter('script_loader_tag', function ($tag, $handle) {
 - Add validation — iteration 55 (2024)
 - Add helper — iteration 2 (2025)
 - Add tests — iteration 8 (2025)
+- Tweak implementation — iteration 9 (2025)
