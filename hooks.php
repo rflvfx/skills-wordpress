@@ -199,3 +199,4 @@
 - Extend coverage — iteration 1 (2025)
 - Update docs — iteration 5 (2025)
 - Add tests — iteration 7 (2025)
+- Fix typo — iteration 10 (2025)
