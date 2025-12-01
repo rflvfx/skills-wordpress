@@ -198,3 +198,4 @@
 - Document usage — iteration 58 (2024)
 - Extend coverage — iteration 1 (2025)
 - Update docs — iteration 5 (2025)
+- Add tests — iteration 7 (2025)
