@@ -235,3 +235,4 @@ add_filter('script_loader_tag', function ($tag, $handle) {
 - Add helper — iteration 49 (2025)
 - Add helper — iteration 55 (2025)
 - Fix lint warnings — iteration 57 (2025)
+- Update dependencies — iteration 60 (2025)
