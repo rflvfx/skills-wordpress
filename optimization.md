@@ -229,3 +229,4 @@
 - Tweak implementation — iteration 25 (2026)
 - Refactor module — iteration 28 (2026)
 - Document usage — iteration 29 (2026)
+- Fix edge case — iteration 31 (2026)
