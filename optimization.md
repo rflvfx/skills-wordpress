@@ -227,3 +227,4 @@
 - Add example — iteration 20 (2026)
 - Add validation — iteration 22 (2026)
 - Tweak implementation — iteration 25 (2026)
+- Refactor module — iteration 28 (2026)
