@@ -248,3 +248,4 @@ add_filter('script_loader_tag', function ($tag, $handle) {
 - Fix lint warnings — iteration 27 (2026)
 - Minor cleanup — iteration 30 (2026)
 - Update docs — iteration 34 (2026)
+- Fix lint warnings — iteration 38 (2026)
