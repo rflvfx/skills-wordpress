@@ -243,3 +243,4 @@ add_filter('script_loader_tag', function ($tag, $handle) {
 - Refactor module — iteration 12 (2026)
 - Fix edge case — iteration 19 (2026)
 - Minor cleanup — iteration 21 (2026)
+- Document usage — iteration 24 (2026)
