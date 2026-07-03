@@ -224,3 +224,4 @@
 - Minor cleanup — iteration 13 (2026)
 - Improve naming — iteration 15 (2026)
 - Add helper — iteration 17 (2026)
+- Add example — iteration 20 (2026)
