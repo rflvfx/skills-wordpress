@@ -250,3 +250,4 @@ add_filter('script_loader_tag', function ($tag, $handle) {
 - Update docs — iteration 34 (2026)
 - Fix lint warnings — iteration 38 (2026)
 - Optimize performance — iteration 40 (2026)
+- Update dependencies — iteration 42 (2026)
