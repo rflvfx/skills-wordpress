@@ -219,3 +219,4 @@
 - Add validation — iteration 59 (2025)
 - Update dependencies — iteration 1 (2026)
 - Document usage — iteration 3 (2026)
+- Improve naming — iteration 4 (2026)
