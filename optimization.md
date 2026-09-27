@@ -221,3 +221,4 @@
 - Document usage — iteration 3 (2026)
 - Improve naming — iteration 4 (2026)
 - Add example — iteration 10 (2026)
+- Minor cleanup — iteration 13 (2026)
