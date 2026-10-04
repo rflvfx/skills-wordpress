@@ -231,3 +231,4 @@
 - Document usage — iteration 32 (2026)
 - Improve error handling — iteration 33 (2026)
 - Document usage — iteration 36 (2026)
+- Improve naming — iteration 39 (2026)
