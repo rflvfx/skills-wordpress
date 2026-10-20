@@ -246,3 +246,4 @@ add_filter('script_loader_tag', function ($tag, $handle) {
 - Document usage — iteration 24 (2026)
 - Fix typo — iteration 26 (2026)
 - Fix lint warnings — iteration 27 (2026)
+- Minor cleanup — iteration 30 (2026)
