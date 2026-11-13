@@ -239,3 +239,4 @@
 - Minor cleanup — iteration 51 (2026)
 - Add example — iteration 53 (2026)
 - Update docs — iteration 58 (2026)
+- Extend coverage — iteration 59 (2026)
